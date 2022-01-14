@@ -2,6 +2,7 @@ package com.lmg.dsmovie.dto;
 
 import com.lmg.dsmovie.entities.Movie;
 
+//Teste
 public class MovieDTO {
 
 	private Long id;
