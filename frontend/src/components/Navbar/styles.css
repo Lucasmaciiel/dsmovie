@@ -1,5 +1,5 @@
 header {
-    background-color: var(--color-primary);
+    background-image: linear-gradient(to right, rgb(59, 32, 104) , rgb(71, 184, 155));
     height: 60px;
     display: flex;
     align-items: center;
